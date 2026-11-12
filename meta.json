@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-12T08:56:35+0800",
+  "updated_at": "2026-11-12T08:57:24+0800",
   "endpoint": "https://raw.githubusercontent.com/vintak-cmd/nursing-mirror/main",
   "pages": {
     "hku-rf.html": {
       "url": "https://nursing.hku.hk/people/research-faculty",
-      "http_code": "ERR",
-      "bytes": 0,
-      "pushed": "missing"
+      "http_code": "200",
+      "bytes": 86454,
+      "pushed": "ok"
     },
     "hku-tf.html": {
       "url": "https://nursing.hku.hk/people/lecturers",
-      "http_code": "ERR",
-      "bytes": 0,
-      "pushed": "missing"
+      "http_code": "200",
+      "bytes": 140718,
+      "pushed": "ok"
     },
     "cuhk-prof.html": {
       "url": "https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/",
