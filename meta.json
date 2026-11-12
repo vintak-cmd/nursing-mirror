@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-11-12T08:56:35+0800",
+  "endpoint": "https://raw.githubusercontent.com/vintak-cmd/nursing-mirror/main",
+  "pages": {
+    "hku-rf.html": {
+      "url": "https://nursing.hku.hk/people/research-faculty",
+      "http_code": "ERR",
+      "bytes": 0,
+      "pushed": "missing"
+    },
+    "hku-tf.html": {
+      "url": "https://nursing.hku.hk/people/lecturers",
+      "http_code": "ERR",
+      "bytes": 0,
+      "pushed": "missing"
+    },
+    "cuhk-prof.html": {
+      "url": "https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/",
+      "http_code": "200",
+      "bytes": 261570,
+      "pushed": "ok"
+    },
+    "cuhk-pc.html": {
+      "url": "https://www.nur.cuhk.edu.hk/people/professional-consultants/",
+      "http_code": "200",
+      "bytes": 175080,
+      "pushed": "ok"
+    },
+    "cuhk-lec.html": {
+      "url": "https://www.nur.cuhk.edu.hk/people/lecturers/",
+      "http_code": "200",
+      "bytes": 197188,
+      "pushed": "ok"
+    },
+    "polyu-prof.html": {
+      "url": "https://www.polyu.edu.hk/sn/about-sn/our-school/academic-staff/professorial-staff/",
+      "http_code": "200",
+      "bytes": 138294,
+      "pushed": "ok"
+    },
+    "polyu-tc.html": {
+      "url": "https://www.polyu.edu.hk/sn/about-sn/our-school/academic-staff/teaching-and-clinical-staff/",
+      "http_code": "200",
+      "bytes": 198000,
+      "pushed": "ok"
+    }
+  }
+}
