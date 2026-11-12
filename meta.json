@@ -1,48 +1,48 @@
-{
-  "updated_at": "2026-11-12T09:00:07+0800",
-  "endpoint": "https://raw.githubusercontent.com/vintak-cmd/nursing-mirror/main",
-  "pages": {
-    "hku-rf.html": {
-      "url": "https://nursing.hku.hk/people/research-faculty",
-      "http_code": "200",
-      "bytes": 86460,
-      "pushed": "ok"
-    },
-    "hku-tf.html": {
-      "url": "https://nursing.hku.hk/people/lecturers",
-      "http_code": "200",
-      "bytes": 140724,
-      "pushed": "ok"
-    },
-    "cuhk-prof.html": {
-      "url": "https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/",
-      "http_code": "200",
-      "bytes": 261570,
-      "pushed": "ok"
-    },
-    "cuhk-pc.html": {
-      "url": "https://www.nur.cuhk.edu.hk/people/professional-consultants/",
-      "http_code": "200",
-      "bytes": 175080,
-      "pushed": "ok"
-    },
-    "cuhk-lec.html": {
-      "url": "https://www.nur.cuhk.edu.hk/people/lecturers/",
-      "http_code": "200",
-      "bytes": 197188,
-      "pushed": "ok"
-    },
-    "polyu-prof.html": {
-      "url": "https://www.polyu.edu.hk/sn/about-sn/our-school/academic-staff/professorial-staff/",
-      "http_code": "200",
-      "bytes": 138294,
-      "pushed": "ok"
-    },
-    "polyu-tc.html": {
-      "url": "https://www.polyu.edu.hk/sn/about-sn/our-school/academic-staff/teaching-and-clinical-staff/",
-      "http_code": "200",
-      "bytes": 198000,
-      "pushed": "ok"
-    }
-  }
+﻿{
+    "endpoint":  "https://raw.githubusercontent.com/vintak-cmd/nursing-mirror/main",
+    "updated_at":  "2026-11-12T09:42:13+08:00",
+    "pages":  {
+                  "hku-tf.html":  {
+                                      "url":  "https://nursing.hku.hk/people/lecturers",
+                                      "bytes":  140724,
+                                      "pushed":  "ok",
+                                      "http_code":  "200"
+                                  },
+                  "cuhk-lec.html":  {
+                                        "url":  "https://www.nur.cuhk.edu.hk/people/lecturers/",
+                                        "bytes":  197188,
+                                        "pushed":  "ok",
+                                        "http_code":  "200"
+                                    },
+                  "polyu-tc.html":  {
+                                        "url":  "https://www.polyu.edu.hk/sn/about-sn/our-school/academic-staff/teaching-and-clinical-staff/",
+                                        "bytes":  198000,
+                                        "pushed":  "ok",
+                                        "http_code":  "200"
+                                    },
+                  "hku-rf.html":  {
+                                      "url":  "https://nursing.hku.hk/people/research-faculty",
+                                      "bytes":  86452,
+                                      "pushed":  "ok",
+                                      "http_code":  "200"
+                                  },
+                  "cuhk-prof.html":  {
+                                         "url":  "https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/",
+                                         "bytes":  261570,
+                                         "pushed":  "ok",
+                                         "http_code":  "200"
+                                     },
+                  "cuhk-pc.html":  {
+                                       "url":  "https://www.nur.cuhk.edu.hk/people/professional-consultants/",
+                                       "bytes":  175080,
+                                       "pushed":  "ok",
+                                       "http_code":  "200"
+                                   },
+                  "polyu-prof.html":  {
+                                          "url":  "https://www.polyu.edu.hk/sn/about-sn/our-school/academic-staff/professorial-staff/",
+                                          "bytes":  138294,
+                                          "pushed":  "ok",
+                                          "http_code":  "200"
+                                      }
+              }
 }
