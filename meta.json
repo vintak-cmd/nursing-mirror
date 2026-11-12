@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-12T08:57:24+0800",
+  "updated_at": "2026-11-12T09:00:07+0800",
   "endpoint": "https://raw.githubusercontent.com/vintak-cmd/nursing-mirror/main",
   "pages": {
     "hku-rf.html": {
       "url": "https://nursing.hku.hk/people/research-faculty",
       "http_code": "200",
-      "bytes": 86454,
+      "bytes": 86460,
       "pushed": "ok"
     },
     "hku-tf.html": {
       "url": "https://nursing.hku.hk/people/lecturers",
       "http_code": "200",
-      "bytes": 140718,
+      "bytes": 140724,
       "pushed": "ok"
     },
     "cuhk-prof.html": {
