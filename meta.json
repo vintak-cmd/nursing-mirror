@@ -1,16 +1,16 @@
 ﻿{
     "endpoint":  "https://raw.githubusercontent.com/vintak-cmd/nursing-mirror/main",
-    "updated_at":  "2026-11-19T06:30:08+08:00",
+    "updated_at":  "2026-11-20T06:30:08+08:00",
     "pages":  {
                   "hku-tf.html":  {
                                       "url":  "https://nursing.hku.hk/people/lecturers",
-                                      "bytes":  140728,
+                                      "bytes":  140726,
                                       "pushed":  "ok",
                                       "http_code":  "200"
                                   },
                   "cuhk-lec.html":  {
                                         "url":  "https://www.nur.cuhk.edu.hk/people/lecturers/",
-                                        "bytes":  196850,
+                                        "bytes":  197008,
                                         "pushed":  "ok",
                                         "http_code":  "200"
                                     },
@@ -22,25 +22,25 @@
                                     },
                   "hku-rf.html":  {
                                       "url":  "https://nursing.hku.hk/people/research-faculty",
-                                      "bytes":  86460,
+                                      "bytes":  86547,
                                       "pushed":  "ok",
                                       "http_code":  "200"
                                   },
                   "cuhk-prof.html":  {
                                          "url":  "https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/",
-                                         "bytes":  261570,
+                                         "bytes":  261388,
                                          "pushed":  "ok",
                                          "http_code":  "200"
                                      },
                   "cuhk-pc.html":  {
                                        "url":  "https://www.nur.cuhk.edu.hk/people/professional-consultants/",
-                                       "bytes":  174737,
+                                       "bytes":  174899,
                                        "pushed":  "ok",
                                        "http_code":  "200"
                                    },
                   "polyu-prof.html":  {
                                           "url":  "https://www.polyu.edu.hk/sn/about-sn/our-school/academic-staff/professorial-staff/",
-                                          "bytes":  138294,
+                                          "bytes":  138508,
                                           "pushed":  "ok",
                                           "http_code":  "200"
                                       }
