@@ -1,6 +1,6 @@
 ﻿{
     "endpoint":  "https://raw.githubusercontent.com/vintak-cmd/nursing-mirror/main",
-    "updated_at":  "2026-11-21T06:30:10+08:00",
+    "updated_at":  "2026-11-22T06:30:09+08:00",
     "pages":  {
                   "hku-tf.html":  {
                                       "url":  "https://nursing.hku.hk/people/lecturers",
@@ -10,7 +10,7 @@
                                   },
                   "cuhk-lec.html":  {
                                         "url":  "https://www.nur.cuhk.edu.hk/people/lecturers/",
-                                        "bytes":  197010,
+                                        "bytes":  197008,
                                         "pushed":  "ok",
                                         "http_code":  "200"
                                     },
@@ -22,19 +22,19 @@
                                     },
                   "hku-rf.html":  {
                                       "url":  "https://nursing.hku.hk/people/research-faculty",
-                                      "bytes":  86533,
+                                      "bytes":  86541,
                                       "pushed":  "ok",
                                       "http_code":  "200"
                                   },
                   "cuhk-prof.html":  {
                                          "url":  "https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/",
-                                         "bytes":  261392,
+                                         "bytes":  261378,
                                          "pushed":  "ok",
                                          "http_code":  "200"
                                      },
                   "cuhk-pc.html":  {
                                        "url":  "https://www.nur.cuhk.edu.hk/people/professional-consultants/",
-                                       "bytes":  174898,
+                                       "bytes":  174895,
                                        "pushed":  "ok",
                                        "http_code":  "200"
                                    },
