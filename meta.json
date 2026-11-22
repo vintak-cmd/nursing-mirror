@@ -1,16 +1,16 @@
 ﻿{
     "endpoint":  "https://raw.githubusercontent.com/vintak-cmd/nursing-mirror/main",
-    "updated_at":  "2026-11-22T06:30:09+08:00",
+    "updated_at":  "2026-11-23T06:30:09+08:00",
     "pages":  {
                   "hku-tf.html":  {
                                       "url":  "https://nursing.hku.hk/people/lecturers",
-                                      "bytes":  140726,
+                                      "bytes":  140724,
                                       "pushed":  "ok",
                                       "http_code":  "200"
                                   },
                   "cuhk-lec.html":  {
                                         "url":  "https://www.nur.cuhk.edu.hk/people/lecturers/",
-                                        "bytes":  197008,
+                                        "bytes":  197006,
                                         "pushed":  "ok",
                                         "http_code":  "200"
                                     },
@@ -22,19 +22,19 @@
                                     },
                   "hku-rf.html":  {
                                       "url":  "https://nursing.hku.hk/people/research-faculty",
-                                      "bytes":  86541,
+                                      "bytes":  86537,
                                       "pushed":  "ok",
                                       "http_code":  "200"
                                   },
                   "cuhk-prof.html":  {
                                          "url":  "https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/",
-                                         "bytes":  261378,
+                                         "bytes":  261385,
                                          "pushed":  "ok",
                                          "http_code":  "200"
                                      },
                   "cuhk-pc.html":  {
                                        "url":  "https://www.nur.cuhk.edu.hk/people/professional-consultants/",
-                                       "bytes":  174895,
+                                       "bytes":  174897,
                                        "pushed":  "ok",
                                        "http_code":  "200"
                                    },
